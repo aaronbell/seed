@@ -10,7 +10,7 @@ fonts {
   filename: "LINESeedJP-Thin.ttf"
   post_script_name: "LINESeedJP-Thin"
   full_name: "LINE Seed JP Thin"
-  copyright:"Copyright 2025 The LINE Seed Project Authors (https://github.com/line/seed/)"
+  copyright:"© LY Corporation"
 }
 fonts {
   name: "LINE Seed JP"
@@ -19,7 +19,7 @@ fonts {
   filename: "LINESeedJP-Regular.ttf"
   post_script_name: "LINESeedJP-Regular"
   full_name: "LINE Seed JP Regular"
-  copyright: "Copyright 2025 The LINE Seed Project Authors (https://github.com/line/seed/)"
+  copyright: "© LY Corporation"
 }
 fonts {
   name: "LINE Seed JP"
@@ -28,7 +28,7 @@ fonts {
   filename: "LINESeedJP-Bold.ttf"
   post_script_name: "LINESeedJP-Bold"
   full_name: "LINE Seed JP Bold"
-  copyright: "Copyright 2025 The LINE Seed Project Authors (https://github.com/line/seed/)"
+  copyright: "© LY Corporation"
 }
 fonts {
   name: "LINE Seed JP"
@@ -37,7 +37,7 @@ fonts {
   filename: "LINESeedJP-ExtraBold.ttf"
   post_script_name: "LINESeedJP-ExtraBold"
   full_name: "LINE Seed JP ExtraBold"
-  copyright: "Copyright 2025 The LINE Seed Project Authors (https://github.com/line/seed/)"
+  copyright: "© LY Corporation"
 }
 subsets: "cyrillic"
 subsets: "greek-ext"

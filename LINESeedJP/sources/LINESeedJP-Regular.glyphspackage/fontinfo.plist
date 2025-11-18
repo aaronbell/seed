@@ -28075,11 +28075,11 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Copyright 2025 The LINE Seed Project Authors (https://github.com/line/seed/)";
+value = "© LY Corporation";
 },
 {
 language = JPN;
-value = "Copyright 2025 The LINE Seed Project Authors (https://github.com/line/seed/)";
+value = "© LY Corporation";
 }
 );
 },
